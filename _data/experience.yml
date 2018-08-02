@@ -1,19 +1,46 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+
+- company: Technical University of Munich (TUM)
+  position: Research Associate
+  duration: Dec. 2017 &mdash; Present
+  location: Munich, Germany
+  summary: Working on interoperable IoT system architectures using Web of Things technologies. Contributing to future <a href="https://www.w3.org/TR/wot-thing-description/">W3C Recommendations</a> and <a href="https://projects.eclipse.org/proposals/eclipse-thingweb">Eclipse Foundation projects </a>
+
+- company: Siemens, Corporate Technology
+  position: Master's Thesis Student
+  duration: Apr. 2017 &mdash; Oct. 2017
+  location: Munich, Germany
+  summary: Worked on how to integrate the Thing Description standard from the Web of Things Task Force of W3C into the development cycle of Web of Things devices
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Schneider Electric, Machine Solutions
+  position: Intern
+  duration:  Feb. 2016 &mdash; Aug. 2016
+  location: Carros, France
+  summary: Worked on verification, development and tutorials of M221 Programmable Logic Controller
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: INSA Lyon
+  position: Physics Tutor
+  duration:   Nov. 2014  &mdash; Feb. 2016
+  location: Lyon, France
+  summary: Assisted 1st and 2nd year students on mechanics, electromagnetism and electricity.
+
+- company: Meteksan Defense
+  position: Intern
+  duration:   Aug. 2015
+  location: Ankara, Turkey
+  summary: Designed and built the hardware and embedded software of an adjustable voltage converter
+
+- company: Space Defense Technologies (SDT)
+  position: Intern
+  duration:   Jul. 2014
+  location: Ankara, Turkey
+  summary: Implemented PS/2 protocol on a Xilinx Basys FPGA
+
+- company: A. Raymond
+  position: Intern
+  duration:   Aug. 2013
+  location: Weil am Rhein, Germany
+  summary: Participated in the quality control of automotive industry products

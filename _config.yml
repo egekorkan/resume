@@ -16,7 +16,7 @@ resume_contact_email:           "egekorkan@gmail.com"
 resume_contact_telephone:       "+49 176 3012 6942"
 resume_contact_address:         "Plettstr. 42, 81735, Munich, Germany"
 resume_header_contact_info: "Plettstr. 42, 81735, Munich, Germany | +49 176 3012 6942 | egekorkan@gmail.com"
-resume_header_intro: "<p>info on me</p>"
+resume_header_intro: "<p>Researcher at Technical University of Munich working on Web of Things concept of World Wide Web Consortium</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,7 +30,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true

@@ -2,15 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: Eclipse Thingweb
+  role: Developer
+  duration: Dec. 2017 &mdash; Present
+  #url: "#"
+  description: Working on <a href="https://github.com/thingweb/thingweb-playground">Thing Description Playground</a>, <a href="https://github.com/eclipse/thingweb.node-wot">node-wot</a> and more to come.
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Remote Controller for Une Histoire Simple
+  role: Hardware and Software Developer
+  duration: Sep. 2015 &mdash; Feb. 2016
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: <a href="https://www.unehistoiresimple.fr/"> Une Histoire Simple</a> is an interactive movie that will be aired at 15.08.2018 in a public square in Lyon, France. The spectators are able to decide on the flow of the movie. We have developed a prototype of the remote controller that would allow the spectators to make choices.
+
+- project: Entrepreneurship Project
+  role: Co-Leader
+  duration: Sep. 2014 &mdash; Jun. 2015
+  # url: "#"
+  description: For one school year, as a team of 10 students, we have simulated how a startup would found. Our idea was a wireless power bank for smartphones where we worked on market research, business plan and budget planning.
+
+- project: 24h LEGO Challenge
+  role: Embedded Software Developer
+  duration: Mar. 2013 and 2015
+  # url: "#"
+  description: For two consecutive years, as a team of 4 we had to build a LEGO robot in 24 hours that had accomplish tasks on its own

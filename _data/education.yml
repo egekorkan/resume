@@ -1,20 +1,26 @@
 # Degree
+- degree: Graduate Studies
+  uni: Technical University of Munich, Germany
+  year: Dec. 2017 &mdash; Present
+  # award: Least likely to graduate College
+  summary: Pursing a Ph.D. degree at Assistant Professorship of Embedded Systems and Internet of Things on the topic of interoperable IoT system architectures using Web of Things technologies
+
 - degree: Master's + Bachelor's Degree, Electrical Engineering
   uni: INSA Lyon, France
   year: 2012 &mdash; 2017
   # awards:
   #   - award: Quickest to fall asleep
   #   - award: Fastest donut eater
-  summary: Generic engineering education for two years and then specializing in electrical engineering and embedded systems
+  summary: Broad engineering education, touching mechanical, chemical, electrical, industrial engineering for two years and then specializing in electrical engineering and embedded systems
 
 - degree: Erasmus Exchange
   uni: Technical University of Munich, Germany
-  year: 2017
+  year: Sep. 2016 &mdash; Oct. 2017
   # award: Least likely to graduate College
-  summary: Erasmus year, including Master's Thesis
+  summary: Erasmus year, including Master's Thesis at Siemens Corporate Technology
 
 - degree: High School Diploma
   uni: Tevfik Fikret Lisesi, Ankara, Turkey
   year: 2000 &mdash; 2012
-  award: 2nd place 
-  summary: High school degree, specializing in sciences with courses taught in French
+  # award: 2nd place 
+  summary: Specializing in science and maths with courses taught in French
