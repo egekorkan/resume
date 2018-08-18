@@ -129,6 +129,28 @@
   &.not-looking { width: 400px; }
 }
 
+.back-button {
+  @include border-radius(3px);
+  background-color: #efefef;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin: 1.5rem auto;
+  width: 300px;
+  font-size: 1.375rem;
+  @include sans_light;
+  color: #333;
+  line-height: 55px;
+  @include transition(all .2s ease);
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  &.not-looking {
+    width: 400px;
+  }
+}
+
 // resume content styles
 
 .content-section {
@@ -144,6 +166,15 @@
     line-height: 1;
   }
 
+  .resume-language {
+    font-size: 0.9rem;
+    margin: 0 0 .75rem;
+    line-height: 0.1;
+    margin-bottom: 0.1rem;
+    &.award-title {
+      font-size: 1.25rem;
+    }
+  }
   .resume-item-details {
     font-size: 0.9rem;
     margin: 0 0 .75rem;

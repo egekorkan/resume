@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Beer for the World
+- organization: Raquettes INSA Club
+  role: Event Organizer, Responsable for Table Tennis
+  year: Sep. 2014 &mdash; Feb. 2016
+  url: https://www.facebook.com/RaquettesInsaClub/
+  summary: RIC is a student club for raquette sports. I organized the weekly table tennis trainings, tournaments and also our yearly big tournaments involving all the sports.
+
+
+- organization: Un Doua de Jazz
   role: Volunteer
-  year: 2008 &mdash; Present
-  url: http://beerfortheworld.com
-  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
-
-
-- organization: Springfield Nuclear Workers Labor Union
-  role: Member in Good Standing
-  year: 1994 &mdash; Present
-  url: http://snwlu.org
-  summary: Founding member of the local nuclear workers labor union.
+  year: 2012
+  url: http://www.undouadejazz.com/
+  summary: Helped the organisation of Un Doua de Jazz, a week long jazz festival organized solely by students

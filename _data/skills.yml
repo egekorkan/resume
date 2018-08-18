@@ -1,12 +1,16 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: Backend Development
+  description: Experience in node.js for server and client backends.
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Embedded Development
+  description: Experience in serial protocols such as I2C and Modbus. I have also participated in white box verification of EmbOS based softwares for industrial computers. 
+
+- skill: 3D Design and Priting
+  description: Design of different pieces for my 3D Printer from Gift ideas to Nixie Tube Clock Enclosures.
+
+- skill: Front End Development
+  description: Development of all my personal Websites with Jekyll.
+
+- skill: Linux
+  description: Still learning!
