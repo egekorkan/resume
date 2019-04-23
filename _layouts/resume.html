@@ -2,7 +2,7 @@
 <html>
 
   {% include head.html %}
-
+  {% include header.html %}
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/myPic.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -249,7 +249,7 @@
       {% endif %}
 
       <footer class="page-footer">
-<a href="egekorkan.com" class="back-button" itemprop="email">Back to homepage</a>
+<a href="http://egekorkan.com" class="back-button" itemprop="email">Back to homepage</a>
         <!-- <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p> -->
       </footer>
